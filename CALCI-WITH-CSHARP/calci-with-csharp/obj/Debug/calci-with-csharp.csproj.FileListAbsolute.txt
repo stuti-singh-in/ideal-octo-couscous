@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\bin\Debug\calci-with-csharp.exe.config
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\bin\Debug\calci-with-csharp.exe
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\bin\Debug\calci-with-csharp.pdb
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\obj\Debug\calci-with-csharp.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\obj\Debug\calci-with-csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\obj\Debug\calci_with_csharp.CalculatorForm.resources
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\obj\Debug\calci_with_csharp.Properties.Resources.resources
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\obj\Debug\calci-with-csharp.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\obj\Debug\calci-with-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\obj\Debug\calci-with-csharp.exe
+C:\Users\Hp\source\repos\stuti-singh-in\ideal-octo-couscous\calci-with-csharp\calci-with-csharp\obj\Debug\calci-with-csharp.pdb
