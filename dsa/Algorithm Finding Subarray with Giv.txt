@@ -1,0 +1,28 @@
+Algorithm: Finding Subarray with Given Sum
+
+Input: Array of positive integers arr, its length n, and target sum s.
+
+Output: An ArrayList containing two integers - the left and right index of the subarray with sum equal to s, or -1 if no such subarray exists.
+
+Initialize an ArrayList called result to store the output indexes.
+
+Initialize two variables start and end to keep track of the subarray indexes, and currSum to keep track of the current sum.
+
+Initialize currSum with the first element of the array (arr[0]).
+
+Loop through the array from index 1 to n:
+
+Check if currSum exceeds the target sum s.
+
+If it does, enter a nested loop that removes elements from the start of the subarray until currSum is less than or equal to s. Increment start and subtract the corresponding element from currSum.
+Check if currSum equals the target sum s:
+
+If it does, update end to the current index minus 1 (i - 1) and break out of the loop.
+If i is less than n, add the current element to currSum.
+
+After the loop, check if currSum is equal to the target sum s:
+
+If it's not, add -1 to the result ArrayList and return it.
+If it is, add start + 1 (for 1-based indexing) and end + 1 (for 1-based indexing) to the result ArrayList.
+Return the result ArrayList as the output.
+
